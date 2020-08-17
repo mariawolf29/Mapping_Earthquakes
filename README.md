@@ -2,7 +2,6 @@
 
 - tectonic plate GeoJSON data to the map to illustrate the relationship between the location and frequency of seismic activity and tectonic plates.
 
-- 
 
 ## Goals
  - Use d3.json() to get tectonic plate data and add the data using the L.geoJSON() layer.
