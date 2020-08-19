@@ -15,3 +15,6 @@
 - Add the tectonic plate data as an overlay with the earthquake data.
 
 - Add three different  map styles to allow the user to select from three different maps.
+
+![screenshot](earthquakes.png)
+
